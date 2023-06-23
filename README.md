@@ -7,7 +7,7 @@ Usage
 Credits
 Description
 The provided code is an HTML document that represents a website. It includes various sections, such as a header, main content, sidebar, and footer. The website is on digital marketing services. 
-This is the finalized website: 
+This is the finalized website: [Deployed Link](https://keoughcatelin.github.io/horiseon/)
 Screenshots of the webpage: ![Alt text](image-2.png)
 
 Changes Made
